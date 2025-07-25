@@ -3,7 +3,7 @@
 A production-grade quantitative trading platform that combines machine learning, fundamental analysis, and technical indicators to provide comprehensive stock analysis and trading recommendations with real-time market data integration.
 
 ## 🎬 Demo
-[![Watch the demo](https://youtu.be/zAKjyawAzFI)
+[![Watch the demo](https://youtu.be/zAKjyawAzFI)]
 
 **StockLab Dashboard** - Real-time market analysis and portfolio management
 
