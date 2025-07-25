@@ -175,15 +175,7 @@ Thumbs.db
 # Application specific
 # --------------------
 # StockLab specific files that shouldn't be in version control
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-*.ico
-Screenshot*.png
-*.screenshot
+
 
 # Model training artifacts
 # ------------------------
