@@ -11,27 +11,27 @@ Advanced quantitative trading interface with multi-agent analysis, real-time mar
 ## 🖼️ Project Screenshots
 
 ### Dashboard & Market Overview
-![Dashboard](https://via.placeholder.com/800x400/1f2937/ffffff?text=StockLab+Dashboard)
+![Dashboard](images/dashboardimage.png)
 Real-time market dashboard with live data feeds and performance metrics
 
 ### Multi-Agent Analysis System
-![Agent Analysis](https://via.placeholder.com/800x400/1f2937/ffffff?text=Multi-Agent+Analysis)
+![Agent Analysis](images/agentsimage.png)
 Warren Buffett, Peter Lynch, and other legendary investor agents providing comprehensive stock analysis
 
 ### Advanced ML Predictions
-![ML Predictions](https://via.placeholder.com/800x400/1f2937/ffffff?text=ML+Predictions)
+![ML Predictions](images/predictionimage.png)
 Tempus v3.0 transformer-based model providing price predictions with confidence intervals
 
 ### Portfolio Management
-![Portfolio](https://via.placeholder.com/800x400/1f2937/ffffff?text=Portfolio+Management)
+![Portfolio](images/portfolioimage.png)
 Real-time portfolio tracking with risk management and performance analytics
 
 ### Backtesting Engine
-![Backtesting](https://via.placeholder.com/800x400/1f2937/ffffff?text=Backtesting+Engine)
+![Backtesting](images/backtestingimage.png)
 Comprehensive strategy testing with detailed performance metrics and optimization
 
 ### Market Data Integration
-![Market Data](https://via.placeholder.com/800x400/1f2937/ffffff?text=Market+Data)
+![Market Data](images/marketdataimage.png)
 Live market data from Polygon.io with sector performance and economic indicators
 
 ## 🏗️ System Architecture
