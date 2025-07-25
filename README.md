@@ -12,27 +12,52 @@ Advanced quantitative trading interface with multi-agent analysis, real-time mar
 
 ### Dashboard & Market Overview
 ![Dashboard](images/dashboardimage.png)
+![Dashboard](images/dashboardimage2.png)
 Real-time market dashboard with live data feeds and performance metrics
 
-### Multi-Agent Analysis System
-![Agent Analysis](images/agentsimage.png)
+### Multi-Agent Stock Analysis System
+![Agent Analysis](images/stockanalysisimage.png)
+![Agent Analysis](images/stockanalysisimage2.png)
 Warren Buffett, Peter Lynch, and other legendary investor agents providing comprehensive stock analysis
 
 ### Advanced ML Predictions
 ![ML Predictions](images/predictionimage.png)
+![ML Predictions](images/predictionimage2.png)
 Tempus v3.0 transformer-based model providing price predictions with confidence intervals
 
 ### Portfolio Management
 ![Portfolio](images/portfolioimage.png)
+![Portfolio](images/portfolioimage2.png)
 Real-time portfolio tracking with risk management and performance analytics
 
 ### Backtesting Engine
 ![Backtesting](images/backtestingimage.png)
+![Backtesting](images/backtestingimage2.png)
 Comprehensive strategy testing with detailed performance metrics and optimization
 
 ### Market Data Integration
 ![Market Data](images/marketdataimage.png)
+![Market Data](images/marketdataimage2.png)
+![Market Data](images/marketdataimage3.png)
 Live market data from Polygon.io with sector performance and economic indicators
+
+### Multi-Agent Investment System
+![Agents](images/agentsimage.png)
+![Agents](images/agentsimage2.png)
+![Agents](images/agentsimage3.png)
+Legendary investor agents including Warren Buffett, Peter Lynch, Charlie Munger, and more providing comprehensive investment analysis
+
+### Comprehensive Documentation
+![Documentation](images/documentationimage.png)
+![Documentation](images/documentationimage2.png)
+![Documentation](images/documentationimage3.png)
+![Documentation](images/documentationimage4.png)
+![Documentation](images/documentationimage5.png)
+![Documentation](images/documentationimage6.png)
+![Documentation](images/documentationimage7.png)
+![Documentation](images/documentationimage8.png)
+![Documentation](images/documentationimage9.png)
+Complete documentation with API guides, architecture overview, and usage examples for developers and users
 
 ## 🏗️ System Architecture
 
